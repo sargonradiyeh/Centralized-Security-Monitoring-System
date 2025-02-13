@@ -42,10 +42,10 @@ This project integrates multiple security monitoring tools—**Wazuh, Checkmk, M
 ## 📖 Documentation
 Each section contains a **detailed README** explaining the installation and configuration of its respective component.
 
-- **[Wazuh Setup](Wazuh/README.md)**
 - **[Elastic Stack Setup](Elastic-Stack/README.md)**
-- **[Checkmk Setup](Checkmk/README.md)**
 - **[MikroTik Setup](Mikrotik/README.md)**
+- **[Wazuh Setup](Wazuh/README.md)**
+- **[Checkmk Setup](Checkmk/README.md)**
 
 ---
 
